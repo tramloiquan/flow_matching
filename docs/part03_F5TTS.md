@@ -56,7 +56,7 @@ toc_max_heading_level: 3
 <summary>Classifier Guidance (CG): Formal Overview and Mechanism</summary>
 <div style={{textAlign: 'center'}}>
 
-![Classifier Guidance](/img/classifier_guidance.png)
+![Classifier Guidance](../static/img/classifier_guidance.png)
 
 *Fig: Classifier Guidance mechanism. [Source](https://arxiv.org/pdf/2105.05233)*
 
@@ -176,7 +176,7 @@ During inference, CFG combines conditional and unconditional predictions to cont
 <summary>Inputs, backbone, objective, vocoder, and performance</summary>
 
 <p align="center">
-  <img src="/img/f5tts.png" alt="f5tts" />
+  <img src="../static/img/f5tts.png" alt="f5tts" />
 </p>
 
 ---

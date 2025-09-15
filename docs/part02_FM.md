@@ -16,7 +16,7 @@ toc_max_heading_level: 3
 
 <div style={{textAlign: 'center'}}>
 
-![Normalizing Flow Transformation](/img/normalizing_flow.png)
+![Normalizing Flow Transformation](../static/img/normalizing_flow.png)
 
 *Fig: A normalizing flow transforms a simple distribution into a complex one through a series of invertible mappings.*
 </div>
@@ -187,7 +187,7 @@ This formulation allows for efficient computation of the log-determinant of the 
 
 <div style={{textAlign: 'center'}}>
 
-![Flow Matching](/img/flow_matching.png)
+![Flow Matching](../static/img/flow_matching.png)
 
 *Fig: Flow Matching Process. [Source](https://arxiv.org/pdf/2412.06264)*
 
@@ -208,7 +208,7 @@ This formulation allows for efficient computation of the log-determinant of the 
 
 <div style={{textAlign: 'center'}}>
 
-![Vector Field](/img/vector_field.png)
+![Vector Field](../static/img/vector_field.png)
 
 *Visualization of vector fields and flow. [Source](https://arxiv.org/pdf/2412.06264)*
 
